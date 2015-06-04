@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApi", "DemoApi\DemoApi.csproj", "{4D0ADA5C-5E90-4EEC-9C4B-D3579425D66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApiVer2", "DemoApiVer2\DemoApiVer2.csproj", "{A7215650-11D1-4AF0-82D3-5B119D13747D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D0ADA5C-5E90-4EEC-9C4B-D3579425D66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0ADA5C-5E90-4EEC-9C4B-D3579425D66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0ADA5C-5E90-4EEC-9C4B-D3579425D66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0ADA5C-5E90-4EEC-9C4B-D3579425D66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7215650-11D1-4AF0-82D3-5B119D13747D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7215650-11D1-4AF0-82D3-5B119D13747D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7215650-11D1-4AF0-82D3-5B119D13747D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7215650-11D1-4AF0-82D3-5B119D13747D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

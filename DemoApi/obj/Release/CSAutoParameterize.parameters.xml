@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Entities-Web.config Connection String" description="Entities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.DemoApi.csdl|res://*/Models.DemoApi.ssdl|res://*/Models.DemoApi.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=192.168.1.100;initial catalog=DemoApi;user id=snsmapadmin;password=Snsmap1687;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Vinh\\Desktop\\DemoApi\\DemoApi\\DemoApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Entities']/@connectionString" />
+  </parameter>
+</parameters>

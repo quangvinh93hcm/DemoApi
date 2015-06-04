@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PractiseServer/DemoApi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Vinh\\Desktop\\DemoApi\\DemoApi\\DemoApiVer2\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Vinh\\Desktop\\DemoApi\\DemoApi\\DemoApiVer2\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Entities-Web.config Connection String" description="" value="metadata=res://*/Models.DemoApi.csdl|res://*/Models.DemoApi.ssdl|res://*/Models.DemoApi.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=WIN-C7MLJGFFUT2;initial catalog=DemoApi;user id=snsmapadmin;password=Snsmap1687;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Vinh\\Desktop\\DemoApi\\DemoApi\\DemoApiVer2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Entities']/@connectionString" />
+  </parameter>
+</parameters>
